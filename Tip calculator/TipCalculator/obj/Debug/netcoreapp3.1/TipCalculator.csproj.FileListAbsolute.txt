@@ -1,0 +1,152 @@
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.exe
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.deps.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.dev.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.AssemblyReference.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CoreCompileInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.MvcApplicationPartsAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\TipCalculator.StaticWebAssets.Manifest.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\TipCalculator.StaticWebAssets.Pack.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TipCalculator.Microsoft.AspNetCore.StaticWebAssets.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TipCalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TipCalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TipCalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.input.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.TagHelpers.output.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorCoreGenerate.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.RazorTargetAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.genruntimeconfig.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\5-1_TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CopyComplete
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.exe
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.deps.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.runtimeconfig.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.runtimeconfig.dev.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.Views.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.csproj.AssemblyReference.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.AssemblyInfoInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.AssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.csproj.CoreCompileInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.MvcApplicationPartsAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\Tipcalculator.StaticWebAssets.Manifest.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\Tipcalculator.StaticWebAssets.Pack.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Tipcalculator.Microsoft.AspNetCore.StaticWebAssets.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Tipcalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Tipcalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Tipcalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.TagHelpers.input.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.TagHelpers.output.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorCoreGenerate.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorTargetAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorTargetAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.genruntimeconfig.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\price\Pricequotation\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.csproj.CopyComplete
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.exe
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.deps.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.runtimeconfig.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.runtimeconfig.dev.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.Views.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.csproj.AssemblyReference.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.AssemblyInfoInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.AssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.csproj.CoreCompileInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.MvcApplicationPartsAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\Tipcalculator.StaticWebAssets.Manifest.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\Tipcalculator.StaticWebAssets.Pack.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Tipcalculator.Microsoft.AspNetCore.StaticWebAssets.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Tipcalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Tipcalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Tipcalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.TagHelpers.input.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.TagHelpers.output.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorCoreGenerate.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorTargetAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorTargetAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.genruntimeconfig.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\5-1_TipCalculator\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.csproj.CopyComplete
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\appsettings.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.exe
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.deps.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.runtimeconfig.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.runtimeconfig.dev.json
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.Views.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\bin\Debug\netcoreapp3.1\Tipcalculator.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.csproj.AssemblyReference.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.AssemblyInfoInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.AssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.csproj.CoreCompileInputs.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.MvcApplicationPartsAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\Tipcalculator.StaticWebAssets.Manifest.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\Tipcalculator.StaticWebAssets.Pack.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.Tipcalculator.Microsoft.AspNetCore.StaticWebAssets.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.Tipcalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.Tipcalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.Tipcalculator.props
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.TagHelpers.input.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.TagHelpers.output.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorCoreGenerate.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorTargetAssemblyInfo.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.RazorTargetAssemblyInfo.cs
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.Views.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.dll
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.pdb
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.genruntimeconfig.cache
+D:\conestogareedh\SEM 4\ADVANCE DOTNET\Reedham_Assignment_1\Project 2-2 Tipcalcutor\Tip calculator\TipCalculator\obj\Debug\netcoreapp3.1\Tipcalculator.csproj.CopyComplete
